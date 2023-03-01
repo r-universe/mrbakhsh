@@ -1,5 +1,9 @@
 [
   {
+    "package": "MACP",
+    "oncran": true
+  },
+  {
     "package": "HPiP"
   }
 ]
