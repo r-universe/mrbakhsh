@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MACP"]
-	path = MACP
-	url = https://github.com/mrbakhsh/macp
-	shallow = true
-	registered = true
 [submodule "HPiP"]
 	path = HPiP
 	url = https://github.com/mrbakhsh/hpip
+	shallow = true
+	registered = true
+[submodule "MACP"]
+	path = MACP
+	url = https://github.com/mrbakhsh/macp
 	shallow = true
 	registered = true
