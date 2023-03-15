@@ -5,5 +5,9 @@
   {
     "package": "MACP",
     "oncran": true
+  },
+  {
+    "package": "MSiP",
+    "oncran": true
   }
 ]

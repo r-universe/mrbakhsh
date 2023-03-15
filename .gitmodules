@@ -13,3 +13,8 @@
 	url = https://github.com/mrbakhsh/macp
 	shallow = true
 	registered = true
+[submodule "MSiP"]
+	path = MSiP
+	url = https://github.com/mrbakhsh/msip
+	shallow = true
+	registered = true
