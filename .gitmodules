@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "DeProViR"]
-	path = DeProViR
-	url = https://github.com/mrbakhsh/deprovir
-[submodule "HPiP"]
-	path = HPiP
-	url = https://github.com/mrbakhsh/hpip
 [submodule "MACP"]
 	path = MACP
 	url = https://github.com/mrbakhsh/macp
