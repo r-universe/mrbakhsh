@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "MACP"]
-	path = MACP
-	url = https://github.com/mrbakhsh/macp
 [submodule "MSiP"]
 	path = MSiP
 	url = https://github.com/mrbakhsh/msip
